@@ -4,3 +4,5 @@ print('new test')
 print('demo')
 # say hi
 a = 5
+b = 6
+
